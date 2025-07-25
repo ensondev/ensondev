@@ -1,3 +1,20 @@
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/bf3d3237-f752-4065-847d-62f09d3b862e" width="64" height="64" alt="Nelson Cabrera avatar"/>
+      </td>
+      <td>
+        <h2 style="margin-left: 10px;">Hola, mi nombre es Nelson Cabrera 👋</h2>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<hr style="height:1px; border:none; background-color:#ddd;" />
+
+
+<h1>Ingeniero en Software</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
