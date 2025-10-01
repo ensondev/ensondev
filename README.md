@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bf3d3237-f752-4065-847d-62f09d3b862e" width="200" height="200" alt="Nelson Cabrera avatar" align="middle" />
   <h2 align="center" style="display: inline;">&nbsp;&nbsp;Hola, mi nombre es Nelson Cabrera 👋</h2>
 </p>
 
