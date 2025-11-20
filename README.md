@@ -29,9 +29,15 @@
 
 ---
 
-### 📫 Cómo contactarme
+### 📫 Contáctame
 
 <p align="center">
-  <a href="https://www.linkedin.com" target="_blank">LinkedIn</a> •
-  <a href="mailto:tu.correo@gmail.com">Correo</a>
+  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:tu.correo@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+  </a>
 </p>
+
