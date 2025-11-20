@@ -25,7 +25,6 @@
 - 🎓 Actualmente estudiando Ingeniería en Software  
 - 💻 Interesado en backend, APIs, bases de datos y arquitectura limpia  
 - ⚙️ Me gusta construir proyectos reales para mejorar mis habilidades  
-- 📚 En constante aprendizaje de nuevas tecnologías  
 - 🎯 Próximamente: Docker, DevOps básico y CI/CD  
 
 ---
