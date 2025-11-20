@@ -31,13 +31,18 @@
 
 ### 📫 Contáctame
 
+### 📫 Contáctame
+
 <p align="center">
   <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+    &nbsp;LinkedIn
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="mailto:tu.correo@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>
+    &nbsp;Correo
   </a>
 </p>
+
 
