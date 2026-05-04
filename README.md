@@ -1,10 +1,10 @@
 <h1 align="center">Hola, soy Nelson Cabrera 👋</h1>
 
 <p align="center">
-  Estudiante de Ingeniería en Software apasionado por el desarrollo web, la creación de soluciones eficientes y el aprendizaje constante.
+  Soy estudiante de Ingeniería en Software de la Universidad Técnica de Manabí. Me encuentro en búsqueda de oportunidades donde pueda aplicar mis conocimientos, seguir aprendiendo y aportar valor con responsabilidad.
+  Estoy disponible para prácticas, proyectos o colaboración en el área de desarrollo de software. Quedo atento a cualquier oportunidad o contacto profesional.
 </p>
 
----
 
 ### 🚀 Tecnologías que utilizo
 
