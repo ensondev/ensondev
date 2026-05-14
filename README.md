@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd..." />
+<img align="right" alt="Coding" width="350" src="https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif" />
 
 ### 📫 Contáctame
 
