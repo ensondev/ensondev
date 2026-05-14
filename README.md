@@ -1,32 +1,20 @@
-<h1 align="center">Hola, soy Nelson Cabrera 👋</h1>
+# Hola, soy Nelson Cabrera 👋
 
-<p align="center">
-  Soy estudiante de Ingeniería en Software de la Universidad Técnica de Manabí. Me encuentro en búsqueda de oportunidades donde pueda aplicar mis conocimientos, seguir aprendiendo y aportar valor con responsabilidad.
-  Estoy disponible para prácticas, proyectos o colaboración en el área de desarrollo de software. Quedo atento a cualquier oportunidad o contacto profesional.
-</p>
+<img align="right" alt="Coding" width="320" src="https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif" />
 
-<img align="right" alt="Coding" width="350" src="https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif" />
+Soy estudiante de Ingeniería en Software de la Universidad Técnica de Manabí.  
+Me encuentro en búsqueda de oportunidades donde pueda aplicar mis conocimientos, seguir aprendiendo y aportar valor con responsabilidad.
 
----
+- 🚀 Disponible para prácticas y colaboración
+- 💻 Interesado en Backend Development
+- 🧠 Aprendiendo NestJS, PostgreSQL y sistemas escalables
+- 📚 Enfocado en Ingeniería de Software
+- ⚡ Apasionado por el desarrollo backend y arquitectura limpia
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<br><br><br><br><br>
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+## 📬 Contáctame
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
 
-### 📫 Contáctame
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ensodev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
-    &nbsp;LinkedIn
-  </a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="mailto:tu.correo@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>
-    &nbsp;Correo
-  </a>
-</p>
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO)
