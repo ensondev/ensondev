@@ -1,6 +1,8 @@
-# Hola, soy Nelson Cabrera 👋
+<h2 align="left">
+  <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" width="30px"> Hi, I'm Nelson Cabrera
+</h2>
 
-<img align="right" alt="Coding" width="320" src="https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif" />
+<img align="right" width="200" alt="perfil" src="https://github.com/user-attachments/assets/68086922-55c6-4663-aa75-91a3169f77db" />
 
 Soy estudiante de Ingeniería en Software de la Universidad Técnica de Manabí.  
 Me encuentro en búsqueda de oportunidades donde pueda aplicar mis conocimientos, seguir aprendiendo y aportar valor con responsabilidad.
