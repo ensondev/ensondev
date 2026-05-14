@@ -5,6 +5,10 @@
   Estoy disponible para prácticas, proyectos o colaboración en el área de desarrollo de software. Quedo atento a cualquier oportunidad o contacto profesional.
 </p>
 
+---
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd..." />
+
 ### 📫 Contáctame
 
 <p align="center">
