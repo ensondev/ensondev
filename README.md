@@ -71,11 +71,7 @@ I am looking for opportunities where I can apply my knowledge, continue learning
 </p>
 
 <h2 style="display: flex; align-items: center; gap: 10px;">
-  <img 
-    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" 
-    width="35px"
-  />
-  Technical Skills
+  💻Technical Skills
 </h2>
 
 <p align="left">
