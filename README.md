@@ -1,3 +1,5 @@
+<img width="1254" height="1254" alt="Emblema Neón de Cuervo Maldito" src="https://github.com/user-attachments/assets/5dd3dd43-f98b-4a00-bf5d-b855b9cfd645" />
+
 <h1 align="left">
   <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" width="30px"> Hi, I'm Nelson Cabrera
 </h1>
