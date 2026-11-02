@@ -75,7 +75,7 @@ I am looking for opportunities where I can apply my knowledge, continue learning
 </h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEzLjIgMiA0IDIyaDUuMWw0LjItOS40IDIuMiA1LjFoLTRsLTEuOCA0LjNIMjJMMTMuMiAyeiIvPjwvc3ZnPg%3D%3D" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
