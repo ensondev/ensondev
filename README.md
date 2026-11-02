@@ -2,8 +2,6 @@
   <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" width="30px"> Hi, I'm Nelson Cabrera
 </h1>
 
-<img align="right" width="200" alt="perfil" src="https://github.com/user-attachments/assets/68086922-55c6-4663-aa75-91a3169f77db" />
-
 I am a Software Engineering student at the Technical University of Manabí.
 I am looking for opportunities where I can apply my knowledge, continue learning, and contribute responsibly.
 
